@@ -1,2 +1,2 @@
 # gis-snippets
-Praxis-Snippets für QGIS, PyGIS und PostGIS - Geodatenqualität, Geometrie, Automatisierung
+Dieses Repo sammelt die QGIS-Snippets, die ich in Projekten wieder und wieder brauche: Attribute bereinigen, Geometrien validieren, Daten qualitätsseitig prüfen, repetitive Tasks automatisieren. Ergänzt um PyQGIS-Skripte für Batch-Verarbeitung und PostGIS-Queries für serverseitige Geodatenoperationen. Jedes Snippet ist mit Anwendungskontext versehen – nicht nur Code, sondern auch die Antwort auf wann man es einsetzt.
